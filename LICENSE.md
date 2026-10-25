@@ -19,11 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Third-party notice: portions of this project are adapted from third-party
-works that remain under their own licenses (MIT and CC BY 4.0). Their
-copyright notices, license terms and a description of the changes are in
-NOTICE.md, which must be kept with any copy or substantial portion of this
-project.

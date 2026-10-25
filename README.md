@@ -9,7 +9,7 @@
 | **作者 / 开发者** | Ryan Yan                                                           |
 | **版权**       | © 2026 Ryan Yan                                                    |
 | **许可**       | MIT（见 [LICENSE.md](LICENSE.md)）；部分内容改编自开源项目，见 [NOTICE.md](NOTICE.md) |
-| **版本**       | v1.0.0                                                             |
+| **版本**       | v1.0.0-beta（测试版）                                                  |
 | **语言**       | 面向中文用户优化（中文、英文、中英双语网页都适用）                                          |
 | **适用**       | Claude Skills（以 zip 上传）、Claude Code                                 |
 | **项目地址**     | https://github.com/sf-ryanyan/jade-grid                            |
